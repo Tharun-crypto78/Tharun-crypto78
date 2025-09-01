@@ -1,8 +1,8 @@
 <div align="center">
-  <img src="https://github.com/Tharun-crypto78/Tharun-crypto78/git_banner.jpg" alt="GitHub Banner" width="800"/>
+  <img src="C:\devops\Tharun\git_banner.jpg" alt="GitHub Banner" width="800"/>
 </div>
 
-# 👋 Hi, I'm Tharun Dadithota
+# 👋 Hi, Myself Tharun Dadithota
 
 ### AWS Cloud and DevOps Engineer  
 🚀 DevOps • Cloud Engineeer • SRE | AWS | CI/CD | Kubernetes | Terraform | Docker
@@ -68,13 +68,4 @@ Myself Tharun Dadithota, an AWS Cloud and DevOps enthusiast, I'm passionate abou
 ![](https://nirzak-streak-stats.vercel.app/?user=Tharun-crypto78&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-crypto78&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 ---
-
-## 🐍 GitHub Contribution Snake
-
-<div align="center">
-  <img src="https://github.com/Tharun-crypto78/snake/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
-
----
-
-Thanks for visiting!
+Thank You for visiting!
