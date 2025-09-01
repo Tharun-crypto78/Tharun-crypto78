@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="C:\devops\Tharun\git_banner.jpg" alt="GitHub Banner" width="800"/>
+  <img src="https://www.linkedin.com/in/tharun-dadithota/overlay/background-image/" alt="GitHub Banner" width="800"/>
 </div>
 
 # 👋 Hi, Myself Tharun Dadithota
