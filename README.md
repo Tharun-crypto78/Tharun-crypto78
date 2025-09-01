@@ -38,7 +38,7 @@ Myself Tharun Dadithota, an AWS Cloud and DevOps enthusiast, I'm passionate abou
 - 🤖 Automate infrastructure and operational tasks using **Linux**, **Shell scripting**, and **Python** improving consistency and speed.  
 - 🔐 Secure cloud environments using **IAM** ensuring compliance and access control   -->
 
-## ⚙️ Skills in My Valut
+## ⚙️ Skills in My Vault
 
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="AWS" /></a>
