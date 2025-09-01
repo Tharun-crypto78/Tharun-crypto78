@@ -51,7 +51,7 @@ Myself Tharun Dadithota, an AWS Cloud and DevOps enthusiast, I'm passionate abou
   <!-- <a href="https://www.gnu.org/software/bash/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="Bash" /></a>
   <a href="https://maven.apache.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maven/maven-original.svg" width="40" height="40" alt="Maven" /></a> -->
   <a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="[https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg](https://www.google.com/search?sca_esv=7e7ead78d89c5fa2&rlz=1C1CHBF_enIN1018IN1018&udm=2&fbs=AIIjpHxU7SXXniUZfeShr2fp4giZ1Y6MJ25_tmWITc7uy4KIemkjk18Cn72Gp24fGkjjh6wQFVCbKXb4P6swJy4x5wjmjSNJGQvRsKm6-XgTruVwk9DhM0x_AsXZQrPrMy1jKlNB5QCg8cvUNlo0rZvgpBiK6xG3pIL6qztYCWlsMxZVH6Yy22cxQtlIex2wHTZiKfyD2dCa_pAWORKWwB-LHuC-3ozvvA&q=vs+code+logo&sa=X&ved=2ahUKEwihyobY-raPAxX11DgGHSG1GWoQtKgLegQIExAB&biw=1280&bih=585&dpr=1.5#vhid=WJtwucXysfxdLM&vssid=mosaic)" width="36" height="36" alt="VS Code" /></a>
+  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" /></a>
 </p>
 
 ---
