@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://www.linkedin.com/in/tharun-dadithota/overlay/background-image/" alt="GitHub Banner" width="800"/>
-</div>
-
 # 👋 Hi, Myself Tharun Dadithota
 
 ### AWS Cloud and DevOps Engineer  
@@ -69,4 +65,4 @@ Myself Tharun Dadithota, an AWS Cloud and DevOps enthusiast, I'm passionate abou
 ![](https://nirzak-streak-stats.vercel.app/?user=Tharun-crypto78&theme=midnight-purple&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tharun-crypto78&theme=midnight-purple&hide_border=true&include_all_commits=true&count_private=true&layout=compact) -->
 ---
-Thank You for visiting!
+THANK YOU FOR VISITING!
