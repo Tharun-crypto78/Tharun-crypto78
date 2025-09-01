@@ -9,7 +9,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/tharun-dadithota/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@tharundadithota)
-[Email](https://img.shields.io/badge/Email-tharundadithota@gmail.com-red?logo=gmail&style=flat)](MAIL_ME:tharundadithota@gmail.com)
+[![Email]](mailid:tharundadithota@gmail.com)
 
 ---
 
