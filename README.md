@@ -1,7 +1,7 @@
 # 👋 Hi, Myself Tharun Dadithota
 
 ### AWS Cloud and DevOps Engineer  
-🚀 DevOps • Cloud Engineeer • SRE | AWS | CI/CD | Kubernetes | Terraform | Docker
+🚀 DevOps • Cloud Engineeer | AWS | CI/CD | Kubernetes | Terraform | Docker
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin&style=flat)](https://www.linkedin.com/in/tharun-dadithota/)
 [![Medium](https://img.shields.io/badge/Medium-Blogs-black?logo=medium&style=flat)](https://medium.com/@tharundadithota)
